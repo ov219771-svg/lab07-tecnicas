@@ -42,7 +42,6 @@ Paso 4: La IA reviso el codigo y propuso 3 mejoras: validar precio, validar stoc
 
 Comparacion: El pedido de una sola vez dio una respuesta general. Al dividirlo en pasos obtuve una solucion mas ordenada, detallada y coherente.
 
-## Ejercicio 6: Prompt estructurado y autocritica
 
 ## Ejercicio 6: Prompt estructurado y autocritica
 
